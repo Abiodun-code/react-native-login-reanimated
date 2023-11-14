@@ -7,6 +7,7 @@ import LoginScreen from './screens/LoginScreen';
 import { RootStack } from './src/types/stackParam';
 import SignScreen from './screens/SignScreen';
 
+
 const Stack = createNativeStackNavigator<RootStack>();
 
 const App = () => {
